@@ -5,6 +5,6 @@ after runing the tools you will get a link url...
 you must send the link to targeted phone or pc then y get his side ip so 
 u got that one by one a cam file...
 ## Installing (Kali Linux/Termux)
-git clone https://github.com/SharqanAhamed/saycheese
+git clone https://github.com/SharqanAhamed/shasnap
 cd shasnap
 bash shasnap.sh
