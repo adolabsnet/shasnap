@@ -1,8 +1,5 @@
 # shasnap v0.1
 Take webcam shots from target just sending a malicious link
-
-![snap](https://images.app.goo.gl/2bFy9mQ4TxtUyBpE8)
-
 # How it works?
 <p>The tool generates a malicious HTTPS page using Serveo or Ngrok Port Forwarding methods, and a javascript code to cam requests using MediaDevices.getUserMedia. </p>
 
