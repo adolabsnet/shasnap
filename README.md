@@ -1,11 +1,9 @@
-# shasnap v0.1
+# shasnap v0.1 by Sharqan Ahamed From ShaMar soft tools
 Take webcam shots from target just sending a malicious link
 # How it works?
-<p>The tool generates a malicious HTTPS page using Serveo or Ngrok Port Forwarding methods, and a javascript code to cam requests using MediaDevices.getUserMedia. </p>
-
-[See more about MediaDEvices.getUserMedia() here](https://developer.mozilla.org/en-US/docs/Web/API/MediaDevices/getUserMedia)
-<p> To convince the target to grant permissions to access the cam, the page uses a javascript code made by https://github.com/wybiral that turns the favicon into a cam stream.</p>
-
+after runing the tools you will get a link url...
+you must send the link to targeted phone or pc then y get his side ip so 
+u got that one by one a cam file...
 ## Installing (Kali Linux/Termux)
 git clone https://github.com/SharqanAhamed/saycheese
 cd shasnap
